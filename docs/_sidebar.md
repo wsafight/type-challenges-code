@@ -1,6 +1,7 @@
 
 * 简单
-* * [简单货币格式化](/easy/001.pick)
+* * [实现 pick](/easy/001.pick)
+* * [实现 readonly](/easy/002.readonly)
 
 * 中等
 
